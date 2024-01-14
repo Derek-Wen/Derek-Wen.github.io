@@ -1,6 +1,6 @@
 ---
-layout: page
-title: projects
+layout: blankpage
+title: ucsd
 permalink: /ucsd/
 header: courses and clubs i've done at ucsd
 nav: true

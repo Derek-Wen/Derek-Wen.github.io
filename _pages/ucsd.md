@@ -1,10 +1,10 @@
 ---
-layout: blankpage
+layout: page
+title: projects
 permalink: /ucsd/
-title: ucsd
 header: courses and clubs i've done at ucsd
 nav: true
-nav_order: 4
+nav_order: 1
 ---
 <br>
 <h2>coursework</h2>

@@ -118,7 +118,7 @@ nav_order: 1
           <th><b>Summer Session 2022</b></th>
           <th>TDGE 124</th>
           <th>Cult Films: Weirdly Dramatic</th>
-          <th class="course-desc">A-</th>
+          <th class="course-desc">A</th>
         </tr>
         <tr>
           <th></th>

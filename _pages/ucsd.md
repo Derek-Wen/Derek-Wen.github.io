@@ -257,12 +257,7 @@ nav_order: 1
 
 <h2 class="padded">clubs</h2>
 <ul class="hearts">
-    <li>i dance for adt (asian dance team) and lion dance!</li>
-    <li>i wrote for mit's <a href="http://infinitemagazine.mit.edu/">infinite magazine</a>, and i modelled for them at the first ever mit gala!</li>
-    <li>i performed <a href="https://www.youtube.com/watch?v=ACon4txJiDA">duet (from omori)</a> at the fall 2022 vgo (video game orchestra) concert</li>
-    <li>i'm the former  webmaster and VP of advocacy for <a href="http://uwip-r1.mit.edu/">undergraduate women in physics</a> (UWiP)</li>
-    <li>i serve on the <a href="https://physvals.mit.edu/">mit physics values committee</a>, which makes recommendations to the department on how to make mit physics better</li>
-    <li>i'm the physics common room steward, which means i buy snacks for it and maintain it as a nice space for students</li>
-    <li>i teach for <a href="https://esp.mit.edu/learn/Splash/index.html">splash</a>, a student-run teaching program for high school students! i taught an astronomy class (2021) and a relativity class (2022).</li>
-    <li>i'm the treasurer, Valorant coordinator, and Valorant team manager for mit's riot games club! i organize customs and watch parties and things like that</li>
+    <li>i'm a creative officer for triton gaming, triton valorant, and league of tritons</li>
+    <li>i've created graphics, videos, and motion graphics for different data science and gaming events</li>
+    <li>i'm a member of the data science student society</li>
 </ul>

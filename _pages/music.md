@@ -11,7 +11,7 @@ nav_order: 3
 
 ## trust u (ft. riensu, ri4h, maxrrss, manni ✰, & yoku)
 <div style="display:flex; justify-content:space-between;">
-  <img src="../../assets/img/song1.png" alt="Image 1" style="width:65%; margin-right:10px;">
+  <img src="../../assets/img/song1.png" alt="Image 1" style="width:35%; margin-right:10px;">
   <p style="width:35%; margin-left:10px;"> 
     my first song to hit 1,000 streams in under 24 hours! a huge collab with all of my favorite artists, and it took a few months of work but it was all worth it
     <br>
@@ -23,7 +23,7 @@ nav_order: 3
 
 ## giving up (ft. riensu & maxrrss)
 <div style="display:flex; justify-content:space-between;">
-  <img src="../../assets/img/song2.png" alt="Image 1" style="width:65%; margin-right:10px;">
+  <img src="../../assets/img/song2.png" alt="Image 1" style="width:25%; margin-right:10px;">
   <p style="width:35%; margin-left:10px;"> 
     tried to go for a randymia sad/angry type of vibe for this song but i didn't really like my part
     <br>
@@ -35,7 +35,7 @@ nav_order: 3
 
 ## don't go (ft. riensu & manni ✰)
 <div style="display:flex; justify-content:space-between;">
-  <img src="../../assets/img/song3.png" alt="Image 1" style="width:65%; margin-right:10px;">
+  <img src="../../assets/img/song3.png" alt="Image 1" style="width:15%; margin-right:10px;">
   <p style="width:35%; margin-left:10px;"> 
     my favorite verse that i've done and i'm really happy with how the song turned out
     <br>

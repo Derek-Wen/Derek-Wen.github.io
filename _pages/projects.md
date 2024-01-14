@@ -5,7 +5,7 @@ permalink: /projects/
 description: data science projects i've done
 nav: true
 nav_order: 4
-display_categories: [work]
+display_categories: [work, fun]
 horizontal: false
 ---
 

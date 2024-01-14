@@ -228,11 +228,6 @@ nav_order: 1
           <th>The Writing Course B</th>
           <th class="course-desc">A</th>
         </tr>
-        <tr>
-          <th></th>
-          <th>21G.304</th>
-          <th>French IV</th>
-        </tr>
         <!-- Fall2020 -->
         <tr>
           <th width="100px"><b>Fall 2020   </b></th>

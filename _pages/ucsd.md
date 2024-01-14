@@ -10,8 +10,144 @@ nav_order: 1
 <h2>coursework</h2>
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
+        <!-- Winter2024 -->
+        <tr>
+          <th><b>Winter 2024</b></th>
+          <th>DSC 170</th>
+          <th>Spatial Data Science and Applications</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>DSC 180B</th>
+          <th>Data Science Project II</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>SOCI 103M</th>
+          <th>Computer Applications to Data Management</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>COGS 100</th>
+          <th>Cyborgs Now and in the Future</th>
+        </tr>
+        <!-- Fall2023 -->
+        <tr>
+          <th><b>Fall 2023</b></th>
+          <th>DSC 180A</th>
+          <th>Data Science Project I</th>
+          <th class="course-desc">A</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>COGS 137</th>
+          <th>Practical Data Science in R</th>
+          <th class="course-desc">A+</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>USP 153</th>
+          <th>Real Estate and Development Market Analysis</th>
+          <th class="course-desc">A+</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>TDGE 127</th>
+          <th>Films of Spike Lee</th>
+          <th class="course-desc">A+</th>
+        </tr>
+        <!-- Spring2023 -->
+        <tr>
+          <th><b>Spring 2023</b></th>
+          <th>CSE 151A</th>
+          <th>Intro to Machine Learning</th>
+          <th class="course-desc">A+</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>COGS 109</th>
+          <th>Modeling and Data Analysis</th>
+          <th class="course-desc">A</th>
+        </tr>
+        <!-- Winter2023 -->
+        <tr>
+          <th><b>Winter 2023</b></th>
+          <th>DSC 140A</th>
+          <th>Probabilistic Modeling and Machine Learning</th>
+          <th class="course-desc">A | by far my hardest data science class</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>DSC 102</th>
+          <th>Systems for Scalable Analytics</th>
+          <th class="course-desc">A+</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>DSC 106</th>
+          <th>Data Visualization</th>
+          <th class="course-desc">A</th> 
+        </tr>
+        <tr>
+          <th></th>
+          <th>MATH 189</th>
+          <th>Data Analysis and Inference</th>
+          <th class="course-desc">A</th> 
+        </tr>
+        <!-- Fall2022 -->
+        <tr>
+          <th><b>Fall 2022</b></th>
+          <th>DSC 100</th>
+          <th>Intro to Data Management</th>
+          <th class="course-desc">A</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>CSE 158R</th>
+          <th>Recommender Systems and Web Mining</th>
+          <th class="course-desc">A+ | my favorite cs class</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>COGS 108</th>
+          <th>Data Science in Practice</th>
+          <th class="course-desc">A+</th> 
+        </tr>
+        <!-- Summer Session 2022 -->
+        <tr>
+          <th><b>Summer Session 2022</b></th>
+          <th>TDGE 124</th>
+          <th>Cult Films: Weirdly Dramatic</th>
+          <th class="course-desc">A-</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>TDGE 125</th>
+          <th>Topics in Theater and Film: Hayao Miyazaki + Studio Ghibli</th>
+          <th class="course-desc">A+ | favorite film and GE class of all time</th>
+        </tr>
+        <!-- Spring2022 -->
+        <tr>
+          <th><b>Spring 2022</b></th>
+          <th>DSC 80</th>
+          <th>Practice of Data Science</th>
+          <th class="course-desc">A-</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>TDGE 11</th>
+          <th>Great Performances on Film</th>
+          <th class="course-desc">A</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>TDGE 100</th>
+          <th>Creating the Role of "Leader</th>
+          <th class="course-desc">A</th> 
+        </tr>
         <!-- Winter2022 -->
         <tr>
+          <th><b>Winter 2022</b></th>
           <th>COGS 14B</th>
           <th>Introduction to Statistical Analysis</th>
           <th class="course-desc">A</th>

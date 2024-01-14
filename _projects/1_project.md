@@ -12,9 +12,9 @@ San Diego Gas & Electric utilizes a variety of public and private data sources f
 
 <div style="display:flex; justify-content:space-between;">
   <img src="../../assets/img/proj1_1.png" alt="Image 1" style="width:50%; margin-right:10px;">
-  <img src="./assets/img/proj1_2.jpg" alt="Image 2" style="width:50%; margin-left:10px;">
+  <img src="../../assets/img/proj1_2.jpg" alt="Image 2" style="width:50%; margin-left:10px;">
 </div>
 
 [View the project on GitHub](https://github.com/Derek-Wen/StreetViewRiskDetector-DSC180A)
 
-<embed src="./assets/pdf/DSC_Capstone_Quarter1_Project.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="../../assets/pdf/DSC_Capstone_Quarter1_Project.pdf" type="application/pdf" width="100%" height="600px" />

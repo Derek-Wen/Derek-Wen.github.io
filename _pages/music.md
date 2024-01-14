@@ -3,7 +3,7 @@ layout: page
 permalink: /music/
 title: music
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## my spotify 2023 stats
@@ -61,7 +61,7 @@ nav_order: 3
 <div style="display:flex; justify-content:space-between;">
   <img src="../../assets/img/song5.png" alt="Image 1" style="width:40%; margin-right:10px;">
   <p style="width:58%; margin-left:10px;"> 
-    my first ever song with the help from riensu and max. this song has a lot of sentimental value for me and it's really personal if you look at the lyrics
+    my first ever song with the help from riensu and max. this song has a lot of sentimental value for me and it's really personal
     <br>
     <a href="https://open.spotify.com/track/7BFpi1NVX0d3Dg2WE4O3tT?si=25293c5f2d874130">listen on spotify</a>
     <br>

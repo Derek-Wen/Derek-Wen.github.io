@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Temporal Dynamics in Amazon Reviews
-description: A Machine Learning Approach
+description: a machine learning approach
 img: assets/img/proj3.png
 importance: 3
 category: work

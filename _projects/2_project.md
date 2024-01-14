@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Predicting a BUY or SELL from a Trade of a Member of the US House of Representatives
+title: Predicting Buy or Sell Decisions from US House Members' Trades
 description: with the help of a Random Forest Classifier
 img: assets/img/proj2.png
 importance: 2

@@ -36,7 +36,7 @@ nav_order: 1
           <th><b>Fall 2023</b></th>
           <th>DSC 180A</th>
           <th>Data Science Project I</th>
-          <th class="course-desc">A</th>
+          <th class="course-desc">A | worked with San Diego Gas & Electric</th>
         </tr>
         <tr>
           <th></th>
@@ -48,7 +48,7 @@ nav_order: 1
           <th></th>
           <th>USP 153</th>
           <th>Real Estate and Development Market Analysis</th>
-          <th class="course-desc">A+</th>
+          <th class="course-desc">A+ | professor emailed me that i received the highest grade in the class</th>
         </tr>
         <tr>
           <th></th>

@@ -142,7 +142,7 @@ nav_order: 1
         <tr>
           <th></th>
           <th>TDGE 100</th>
-          <th>Creating the Role of "Leader</th>
+          <th>Creating the Role of "Leader"</th>
           <th class="course-desc">A</th> 
         </tr>
         <!-- Winter2022 -->

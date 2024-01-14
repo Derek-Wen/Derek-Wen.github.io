@@ -8,6 +8,7 @@ category: fun
 ---
 
 This project analyzes professional player statistics in the game VALORANT to identify key factors contributing to player success. It examines the relationship between maps played and KDA, team experience, and player deaths. Additionally, it explores regional differences in average ACS scores and their spread within top regions. The findings created through visualizations suggest experience, team dynamics, individual performance metrics, and regional factors all play a role in a player's success in the game.
+
 [View the project on GitHub](https://github.com/Derek-Wen/vct-analysis-viz)
 
 <div style="display:flex; justify-content:space-between;">

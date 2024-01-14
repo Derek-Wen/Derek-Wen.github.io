@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Valorant Players Analysis through Visualizations
+title: Valorant Player Impact Analysis through Visualizations
 description: with the help of d3
 img: assets/img/proj4.png
 importance: 1

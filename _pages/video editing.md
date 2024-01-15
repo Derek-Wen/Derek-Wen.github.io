@@ -11,7 +11,7 @@ nav_order: 3
 
 [my playlist of my work](https://www.youtube.com/playlist?list=PLt1d7xD6bw2WM9DtC3KQ1p4JCIE4UdPIY)
 
-# Video Editing
+# my most proud projects
 
 ### 2023 Portfolio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JuF3A5H3mHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -47,7 +47,7 @@ i began hosting video editing contests in 2021 titled "Airikan's Monthly Contest
 - [AMC x Shizuka [BO2] ($300)](https://www.youtube.com/watch?v=hX_2vGl2q0o) - $300 donated for the prize pool
 - [AMC x Ultec x Arium($250)](https://www.youtube.com/watch?v=EgsWzbYfa6I) - $250 donated for the prize pool
 
-# Motion Design
+# motion design
 
 ### motion design w/ fatal alex
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lvi0m4kUg2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -61,7 +61,7 @@ motion design for one of my songs "trust u"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dp53WB4V-FE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 another motion design work for one of my songs "don't go"
 
-# Other Video Editing Projects
+# other video editing projects im proud of
 
 ### hollow
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gt4XvVhmSaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

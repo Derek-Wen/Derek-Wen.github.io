@@ -2,13 +2,12 @@
 layout: page
 permalink: /music/
 title: music
-description: songs i've made
 nav: true
 nav_order: 4
 ---
 
 ## my spotify 2023 stats
-<img src="../../assets/img/music1.png" alt="Spotify Artist Profile" style="width:100%;">
+<img src="../../assets/img/music1.png" alt="Spotify Artist Profile" style="width:60%;">
 
 ## trust u (ft. riensu, ri4h, maxrrss, manni ✰, & yoku)
 <div style="display:flex; justify-content:space-between;">

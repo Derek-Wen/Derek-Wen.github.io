@@ -13,11 +13,6 @@ nav_order: 1
         <!-- Winter2024 -->
         <tr>
           <th><b>Winter 2024</b></th>
-          <th>DSC 170</th>
-          <th>Spatial Data Science and Applications</th>
-        </tr>
-        <tr>
-          <th></th>
           <th>DSC 180B</th>
           <th>Data Science Project II</th>
         </tr>

@@ -63,6 +63,12 @@ another motion design work for one of my songs "don't go"
 
 # other video editing projects im proud of
 
+### Triton Gaming Expo (TGEX) 2023
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z9yFVDTcpJU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Triton Gaming - Division Showcase 2023
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxGM4K-BO50" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### hollow
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gt4XvVhmSaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 a scrapped league of legends collab that i was suppose to do with a friend but it's my best league edit in my opinion

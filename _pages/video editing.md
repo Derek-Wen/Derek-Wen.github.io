@@ -24,6 +24,10 @@ fun collab with bkn. my best clean valorant edit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVlDC0YzvsY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 dara hit me up for a valorant montage for one of their newer players. finished within 1-2 days and was relatively proud of it with how short i managed to complete it
 
+### taxi
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=BwnMdCqsLQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+my first big editing project that i'm proud of
+
 # Airikan's Monthly Contest (AMC)
 i began hosting video editing contests in 2021 titled "Airikan's Monthly Contest" or AMC for short. each month we release video clips for editors to make an edit out of the clips and we have a panel of judges to rate these edits and present them in a results video. throughout the years we gathered 160,000+ views, 200+ participants, 1,000+ members, and $2,000+ in donations. i started out with me and a friend, but now we have a full staff team for jobs such as recording clips, posting on social media, and judging edits.
 
@@ -51,15 +55,12 @@ i began hosting video editing contests in 2021 titled "Airikan's Monthly Contest
 
 ### motion design w/ fatal alex
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lvi0m4kUg2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-did motion design for a video of mine with fatal alex
 
 ### trust u
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sruu-BmRl0k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-motion design for one of my songs "trust u"
 
 ### don't go
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dp53WB4V-FE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-another motion design work for one of my songs "don't go"
 
 # other video editing projects im proud of
 
@@ -71,8 +72,6 @@ another motion design work for one of my songs "don't go"
 
 ### hollow
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gt4XvVhmSaw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-a scrapped league of legends collab that i was suppose to do with a friend but it's my best league edit in my opinion
 
 ### easy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/owyUAX8T-SI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-short apex edit made in 1-2 days

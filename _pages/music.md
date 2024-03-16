@@ -14,7 +14,7 @@ nav_order: 4
 <div style="display:flex; justify-content:space-between;">
   <img src="../../assets/img/song1.png" alt="Image 1" style="width:40%; margin-right:10px;">
   <p style="width:58%; margin-left:10px;"> 
-    my first song to hit 1,000 streams in under 24 hours! a huge collab with all of my favorite artists, and it took a few months of work but it was all worth it
+    my first song to hit 1,000 streams in under 24 hours
     <br>
     <a href="https://open.spotify.com/track/0FhQD7YBmIpN7k7lZS9u7O?si=f9e2496501904c3b">listen on spotify</a>
     <br>
@@ -38,7 +38,7 @@ nav_order: 4
 <div style="display:flex; justify-content:space-between;">
   <img src="../../assets/img/song3.png" alt="Image 1" style="width:40%; margin-right:10px;">
   <p style="width:58%; margin-left:10px;"> 
-    my favorite verse that i've done and i'm really happy with how the song turned out
+    my favorite verse that i've done
     <br>
     <a href="https://open.spotify.com/track/4RKBnZQHdT94jbhCGusIQP?si=fcd9ec8b0ec04927">listen on spotify</a>
     <br>
@@ -50,7 +50,7 @@ nav_order: 4
 <div style="display:flex; justify-content:space-between;">
   <img src="../../assets/img/song4.png" alt="Image 1" style="width:40%; margin-right:10px;">
   <p style="width:58%; margin-left:10px;"> 
-    my best song and vocal performance in my opinion. riensu helped a ton with the melodies and i couldn't have done it without him
+    my best vocal performance on a song
     <br>
     <a href="https://open.spotify.com/track/5mXZgh6qJuDtoCNLPxrleb?si=13318f3cc5794255">listen on spotify</a>
     <br>
@@ -62,7 +62,7 @@ nav_order: 4
 <div style="display:flex; justify-content:space-between;">
   <img src="../../assets/img/song5.png" alt="Image 1" style="width:40%; margin-right:10px;">
   <p style="width:58%; margin-left:10px;"> 
-    my first ever song with the help from riensu and max. this song has a lot of sentimental value for me and it's really personal
+    my first ever song with the help from riensu and max, lots of sentimental value for me
     <br>
     <a href="https://open.spotify.com/track/7BFpi1NVX0d3Dg2WE4O3tT?si=25293c5f2d874130">listen on spotify</a>
     <br>

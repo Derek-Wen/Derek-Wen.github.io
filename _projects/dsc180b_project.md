@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enhancing Utility Pole Monitoring with Computer Vision
-description: a collaboration with SDGE
+description: data science capstone project
 img: assets/img/dsc180b_3.jpg
 importance: 1
 category: work
@@ -12,8 +12,8 @@ This project leverages computer vision and Google Street View images to enhance 
 [View the project on GitHub](https://github.com/jcheung4/DSC180B)
 [View the project website](https://jcheung4.github.io/DSC180B-Website/)
 
-<img src="../../assets/img/dsc180b_traversal" alt="Project Visualization" style="width:100%;">
-<img src="../../assets/img/dsc180b_2" alt="Project Visualization" style="width:100%;">
-<img src="../../assets/img/dsc180b_1" alt="Project Visualization" style="width:100%;">
+<img src="../../assets/img/dsc180b_traversal.gif" alt="Project Visualization" style="width:100%;">
+<img src="../../assets/img/dsc180b_2.jpg" alt="Project Visualization" style="width:100%;">
+<img src="../../assets/img/dsc180b_1.jpg" alt="Project Visualization" style="width:100%;">
 
 <embed src="../../assets/pdf/DSC_180B_Capstone_Report.pdf" type="application/pdf" width="100%" height="600px" />

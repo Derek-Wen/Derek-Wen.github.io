@@ -10,21 +10,40 @@ nav_order: 1
 <h2>coursework</h2>
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
+        <!-- Spring2024 -->
+        <tr>
+          <th><b>Spring 2024</b></th>
+          <th>SOCI 136</th>
+          <th>Data and Society</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>COGS 101A</th>
+          <th>Sensation and Perception</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>MUS 95G</th>
+          <th>Gospel Choir</th>
+        </tr>
         <!-- Winter2024 -->
         <tr>
           <th><b>Winter 2024</b></th>
           <th>DSC 180B</th>
           <th>Data Science Project II</th>
+          <th class="course-desc">A</th>
         </tr>
         <tr>
           <th></th>
           <th>SOCI 103M</th>
           <th>Computer Applications to Data Management</th>
+          <th class="course-desc">A</th>
         </tr>
         <tr>
           <th></th>
           <th>COGS 100</th>
           <th>Cyborgs Now and in the Future</th>
+          <th class="course-desc">A+ </th>
         </tr>
         <!-- Fall2023 -->
         <tr>

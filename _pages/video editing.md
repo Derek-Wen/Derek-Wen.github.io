@@ -25,7 +25,7 @@ fun collab with bkn. my best clean valorant edit
 dara hit me up for a valorant montage for one of their newer players. finished within 1-2 days and was relatively proud of it with how short i managed to complete it
 
 ### taxi
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=BwnMdCqsLQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BwnMdCqsLQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 my first big editing project that i'm proud of
 
 # Airikan's Monthly Contest (AMC)

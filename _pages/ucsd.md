@@ -4,7 +4,7 @@ title: ucsd
 permalink: /ucsd/
 header: courses and clubs i've done at ucsd
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 <br>
 <h2>coursework</h2>
@@ -50,7 +50,7 @@ nav_order: 1
           <th><b>Fall 2023</b></th>
           <th>DSC 180A</th>
           <th>Data Science Project I</th>
-          <th class="course-desc">A | worked with San Diego Gas & Electric</th>
+          <th class="course-desc">A</th>
         </tr>
         <tr>
           <th></th>
@@ -62,7 +62,7 @@ nav_order: 1
           <th></th>
           <th>USP 153</th>
           <th>Real Estate and Development Market Analysis</th>
-          <th class="course-desc">A+ | professor emailed me that i received the highest grade in the class</th>
+          <th class="course-desc">A+</th>
         </tr>
         <tr>
           <th></th>
@@ -88,7 +88,7 @@ nav_order: 1
           <th><b>Winter 2023</b></th>
           <th>DSC 140A</th>
           <th>Probabilistic Modeling and Machine Learning</th>
-          <th class="course-desc">A | by far my hardest data science class</th>
+          <th class="course-desc">A</th>
         </tr>
         <tr>
           <th></th>
@@ -119,7 +119,7 @@ nav_order: 1
           <th></th>
           <th>CSE 158R</th>
           <th>Recommender Systems and Web Mining</th>
-          <th class="course-desc">A+ | my favorite cs class</th>
+          <th class="course-desc">A+</th>
         </tr>
         <tr>
           <th></th>
@@ -138,7 +138,7 @@ nav_order: 1
           <th></th>
           <th>TDGE 125</th>
           <th>Topics in Theater and Film: Hayao Miyazaki + Studio Ghibli</th>
-          <th class="course-desc">A+ | favorite film and GE class of all time</th>
+          <th class="course-desc">A+</th>
         </tr>
         <!-- Spring2022 -->
         <tr>
@@ -170,7 +170,7 @@ nav_order: 1
           <th></th>
           <th>DSC 40B</th>
           <th>Theoretical Foundations of Data Science II</th>
-          <th class="course-desc">A- | i was extremely burnt out with school but it happens</th>
+          <th class="course-desc">A-</th>
         </tr>
         <tr>
           <th></th>
@@ -189,33 +189,33 @@ nav_order: 1
           <th></th>
           <th>DSC 40A</th>
           <th>Theoretical Foundations of Data Science I</th>
-          <th class="course-desc">A | this was my first challenging class</th>
+          <th class="course-desc">A</th>
         </tr>
         <tr>
           <th></th>
           <th>PHIL 28</th>
           <th>Ethics and Society II</th>
-          <th class="course-desc">A | finally done with my warren writing requirements</th>
+          <th class="course-desc">A</th>
         </tr>
         <!-- Summer Session 2021 -->
         <tr>
           <th><b>Summer Session 2021</b></th>
           <th>DSC 30</th>
           <th>Data Structures and Algorithms for Data Science</th>
-          <th class="course-desc">A+ | extremely fast-pace with a class gpa of 2.8 and i was the only A+ in the class</th>
+          <th class="course-desc">A+</th>
         </tr>
         <!-- Spring2021 -->
         <tr>
           <th><b>Spring 2021</b></th>
           <th>DSC 20</th>
           <th>Programming and Basic Data Structures for Data Science</th>
-          <th class="course-desc">A+ | loved this class</th>
+          <th class="course-desc">A+</th>
         </tr>
         <tr>
           <th></th>
           <th>POLI 27</th>
           <th>Ethics And Society I</th>
-          <th class="course-desc">A | im not going to lie this wanted me to take more poli sci classes</th>
+          <th class="course-desc">A</th>
         </tr>
         <tr>
           <th></th>
@@ -228,7 +228,7 @@ nav_order: 1
           <th><b>Winter 2021</b></th>
           <th>DSC 10</th>
           <th>Principles of Data Science</th>
-          <th class="course-desc"> A+ | very useful class</th>
+          <th class="course-desc"> A+</th>
         </tr>
         <tr>
           <th></th>
@@ -247,7 +247,7 @@ nav_order: 1
           <th width="100px"><b>Fall 2020   </b></th>
           <th>MATH 20C</th>
           <th>Calculus and Analytic Geometry for Science and Engineering</th>
-          <th class="course-desc">A | first ever college class and the professor was awesome</th>
+          <th class="course-desc">A</th>
         </tr>
         <tr>
           <th></th>
@@ -259,7 +259,7 @@ nav_order: 1
           <th></th>
           <th>WCWP 10A</th>
           <th>The Writing Course A</th>
-          <th class="course-desc">A | i received an extremely tough grader but i put in a ton of effort going to office hours every week and it made me a better writer in the end</th> 
+          <th class="course-desc">A</th> 
         </tr>
     </table>
 </div>
@@ -269,4 +269,5 @@ nav_order: 1
     <li>i'm a creative officer for triton gaming, triton valorant, and league of tritons</li>
     <li>i've created graphics, videos, and motion graphics for different data science and gaming events</li>
     <li>i'm a member of the data science student society</li>
+    <li>i was a student panelist for a capstone panel by diversity in data science</li>
 </ul>

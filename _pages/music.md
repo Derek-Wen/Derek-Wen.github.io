@@ -4,7 +4,7 @@ permalink: /music/
 title: music
 description: songs i've made
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ## my spotify 2023 stats

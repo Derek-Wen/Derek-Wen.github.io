@@ -4,7 +4,7 @@ permalink: /video editing/
 title: video editing
 description: video editing, motion design, and 3d work by me
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 [my youtube channel](https://www.youtube.com/@Airikan)

@@ -4,7 +4,7 @@ title: ucla
 permalink: /ucla/
 header: courses and clubs i've done at ucla
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 <br>
 <h2>coursework</h2>

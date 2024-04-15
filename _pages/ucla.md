@@ -9,7 +9,7 @@ nav_order: 1
 <br>
 <!-- Major and Minor Information -->
 <h2>Major and Minor</h2>
-<p>I am pursing a <strong>Masters of Applied Statistics and Data Science</strong>.</p>
+<p>I am pursing a <strong>masters of applied statistics and data science</strong>.</p>
 
 <h2>coursework</h2>
 <div class="table-responsive">

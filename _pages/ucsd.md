@@ -7,6 +7,10 @@ nav: true
 nav_order: 2
 ---
 <br>
+<!-- Major and Minor Information -->
+<h2>Major and Minor</h2>
+<p>During 2020-2024 I majored in <strong>Data Science</strong> with a minor in <strong>Cognitive Science</strong>.</p>
+
 <h2>coursework</h2>
 <div class="table-responsive">
     <table class="table table-sm table-borderless">

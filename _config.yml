@@ -4,9 +4,9 @@
 
 title: dwen # the website title (if blank, full name will be used instead)
 first_name: derek
-middle_name: hao
+middle_name: haozhou
 last_name: wen
-email: derek.hz.wen@.com
+email: derek.hz.wen@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   personal website of derek wen
 footer_text: >
@@ -66,7 +66,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: Derek-Wen # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: Airikan_ # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username

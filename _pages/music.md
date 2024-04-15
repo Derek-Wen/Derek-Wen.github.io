@@ -2,7 +2,7 @@
 layout: page
 permalink: /music/
 title: music
-description: songs i've made
+description: songs i've written and sang.
 nav: true
 nav_order: 5
 ---

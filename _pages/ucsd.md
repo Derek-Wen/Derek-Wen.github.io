@@ -6,8 +6,7 @@ header: courses and clubs i've done at ucsd
 nav: true
 nav_order: 2
 ---
-<br>
-<h2>data science major + cognitive science minor</h2>
+<h1>data science major + cognitive science minor</h1>
 
 <h2>coursework</h2>
 <div class="table-responsive">

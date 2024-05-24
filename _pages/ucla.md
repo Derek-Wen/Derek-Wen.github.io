@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 <br>
-<h2>masters of applied statistics and data science</h2>
+<h1>masters of applied statistics and data science</h1>
 
 <h2>coursework</h2>
 <div class="table-responsive">

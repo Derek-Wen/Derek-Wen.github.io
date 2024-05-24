@@ -2,7 +2,7 @@
 layout: page
 permalink: /video editing/
 title: video editing
-description: video editing, motion design, and 3d work by me
+description:
 nav: true
 nav_order: 4
 ---

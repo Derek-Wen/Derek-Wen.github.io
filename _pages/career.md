@@ -2,24 +2,23 @@
 layout: page
 permalink: /career/
 title: career
-description: past work and internship experience
+description:
 nav: true
 nav_order: 6
 ---
 
-# Career
+# Internships
 
 ## Data Science Intern at Claritas
-**Duration:** Apr 2023 - Present (1 yr 2 mos)  
+**Duration:** Apr 2023 - Feb 2024
 **Location:** San Diego, California, United States · Hybrid
 
 **Responsibilities:**
 - Designed and implemented a scalable PySpark pipeline to filter and process over a million IP addresses from diverse data sources within a distributed data environment.
-- Developed a Spark-based pipeline that extracts campaign data from Parquet files, processes it, and calculates the daily percentage of data quality warnings across multiple metrics and tables.
-- Analyzed the data across various dimensions, including tables and dates, to understand trends and anomalies in campaign data.
+- Developed a program that extracts campaign data from Parquet files, processes it, and calculates the daily percentage of data quality warnings across multiple metrics and tables.
 
 ## Intern at Nurlink Technology
-**Duration:** Jul 2021 - Aug 2021 (2 mos)  
+**Duration:** Jul 2021 - Aug 2021
 **Location:** San Diego, California, United States · Hybrid
 
 **Responsibilities:**
@@ -29,7 +28,7 @@ nav_order: 6
 - Applied dimensionality reduction techniques like PCA to conduct 2-D visualization of noise in output power.
 
 ## Intern at San Diego State University
-**Duration:** Jan 2019 - Jun 2020 (1 yr 6 mos)  
+**Duration:** Jan 2019 - Jun 2020
 **Location:** San Diego, California, United States · Hybrid
 
 **Responsibilities:**

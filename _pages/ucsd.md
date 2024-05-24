@@ -7,9 +7,7 @@ nav: true
 nav_order: 2
 ---
 <br>
-<!-- Major and Minor Information -->
-<h2>Major and Minor</h2>
-<p>I majored in <strong>data science</strong> with a minor in <strong>cognitive science</strong> at my time at ucsd.</p>
+<h2>data science major + cognitive science minor</h2>
 
 <h2>coursework</h2>
 <div class="table-responsive">
@@ -270,8 +268,8 @@ nav_order: 2
 
 <h2 class="padded">clubs</h2>
 <ul class="hearts">
+    <li>i was a student panelist for a data science capstone panel by diversity in data science</li>
     <li>i'm a creative officer for triton gaming, triton valorant, and league of tritons</li>
-    <li>i've created graphics, videos, and motion graphics for different data science and gaming events</li>
     <li>i'm a member of the data science student society</li>
-    <li>i was a student panelist for a capstone panel by diversity in data science</li>
+    <li>i'm a member of the producer club at ucsd</li>
 </ul>

@@ -13,7 +13,7 @@ nav_order: 5
 # 2024 Releases
 
 ## see
-<div style="display:flex; justify-content:space-between; margin-top:20px;">
+<div style="display:flex; justify-content:space-between; margin-top:50px;">
   <img src="../../assets/img/song6.png" alt="Image 1" style="width:40%; margin-right:20px;">
   <p style="width:58%; margin-left:20px;"> 
     first solo song that i'm proud of
@@ -27,7 +27,7 @@ nav_order: 5
 # 2023 Releases
 
 ## trust u (ft. riensu, ri4h, maxrrss, manni ✰, & yoku)
-<div style="display:flex; justify-content:space-between; margin-top:20px;">
+<div style="display:flex; justify-content:space-between; margin-top:100px;">
   <img src="../../assets/img/song1.png" alt="Image 1" style="width:40%; margin-right:20px;">
   <p style="width:58%; margin-left:20px;"> 
     my first song to hit 1,000 streams in under 24 hours

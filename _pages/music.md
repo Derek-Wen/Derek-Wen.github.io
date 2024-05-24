@@ -8,7 +8,23 @@ nav_order: 5
 ---
 
 ## my spotify 2023 stats
-<img src="../../assets/img/music1.png" alt="Spotify Artist Profile" style="width:60%;">
+<img src="../../assets/img/music1.png" alt="Spotify Artist Profile" style="width:40%;">
+
+### 2024 Releases
+
+## see
+<div style="display:flex; justify-content:space-between;">
+  <img src="../../assets/img/song6.png" alt="Image 1" style="width:40%; margin-right:10px;">
+  <p style="width:58%; margin-left:10px;"> 
+    first solo song that i'm proud of
+    <br>
+    <a href="https://open.spotify.com/track/6Z3wT9OTPvX8y4vVPDuRji?si=c3f1d31265c34557">listen on spotify</a>
+    <br>
+    <a href="https://soundcloud.com/dwennn/see-mirin">listen on soundcloud</a>
+  </p>
+</div>
+
+### 2023 Releases
 
 ## trust u (ft. riensu, ri4h, maxrrss, manni ✰, & yoku)
 <div style="display:flex; justify-content:space-between;">
@@ -26,7 +42,7 @@ nav_order: 5
 <div style="display:flex; justify-content:space-between;">
   <img src="../../assets/img/song2.png" alt="Image 1" style="width:40%; margin-right:10px;">
   <p style="width:58%; margin-left:10px;"> 
-    tried to go for a randymia sad/angry type of vibe for this song but i didn't really like my part
+    tried to go for a sad & angry type of vibe for this song but i didn't really like my part
     <br>
     <a href="https://open.spotify.com/track/6KSxa7hlSuYIkLLjtRgexr?si=95c9eccf46e54c9a">listen on spotify</a>
     <br>

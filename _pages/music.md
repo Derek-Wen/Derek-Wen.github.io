@@ -13,7 +13,7 @@ nav_order: 5
 # 2024 Releases
 
 ## see
-<div style="display:flex; justify-content:space-between; margin-top:50px;">
+<div style="display:flex; justify-content:space-between; margin-bottom:40px;">
   <img src="../../assets/img/song6.png" alt="Image 1" style="width:40%; margin-right:20px;">
   <p style="width:58%; margin-left:20px;"> 
     first solo song that i'm proud of
@@ -27,7 +27,7 @@ nav_order: 5
 # 2023 Releases
 
 ## trust u (ft. riensu, ri4h, maxrrss, manni ✰, & yoku)
-<div style="display:flex; justify-content:space-between; margin-top:100px;">
+<div style="display:flex; justify-content:space-between; margin-bottom:40px;">
   <img src="../../assets/img/song1.png" alt="Image 1" style="width:40%; margin-right:20px;">
   <p style="width:58%; margin-left:20px;"> 
     my first song to hit 1,000 streams in under 24 hours
@@ -39,7 +39,7 @@ nav_order: 5
 </div>
 
 ## giving up (ft. riensu & maxrrss)
-<div style="display:flex; justify-content:space-between; margin-top:20px;">
+<div style="display:flex; justify-content:space-between; margin-bottom:40px;">
   <img src="../../assets/img/song2.png" alt="Image 1" style="width:40%; margin-right:20px;">
   <p style="width:58%; margin-left:20px;"> 
     tried to go for a sad & angry type of vibe for this song but i didn't really like my part
@@ -51,7 +51,7 @@ nav_order: 5
 </div>
 
 ## don't go (ft. riensu & manni ✰)
-<div style="display:flex; justify-content:space-between; margin-top:20px;">
+<div style="display:flex; justify-content:space-between; margin-bottom:40px;">
   <img src="../../assets/img/song3.png" alt="Image 1" style="width:40%; margin-right:20px;">
   <p style="width:58%; margin-left:20px;"> 
     my favorite verse that i've done
@@ -63,7 +63,7 @@ nav_order: 5
 </div>
 
 ## tumble (ft. riensu & yoku)
-<div style="display:flex; justify-content:space-between; margin-top:20px;">
+<div style="display:flex; justify-content:space-between; margin-bottom:40px;">
   <img src="../../assets/img/song4.png" alt="Image 1" style="width:40%; margin-right:20px;">
   <p style="width:58%; margin-left:20px;"> 
     my best vocal performance on a song
@@ -75,7 +75,7 @@ nav_order: 5
 </div>
 
 ## reaching too far (ft. riensu & maxrrss)
-<div style="display:flex; justify-content:space-between; margin-top:20px;">
+<div style="display:flex; justify-content:space-between; margin-bottom:40px;">
   <img src="../../assets/img/song5.png" alt="Image 1" style="width:40%; margin-right:20px;">
   <p style="width:58%; margin-left:20px;"> 
     my first ever song with the help from riensu and max, lots of sentimental value for me

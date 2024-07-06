@@ -8,7 +8,8 @@ nav_order: 2
 ---
 <br>
 <h2>data science major + cognitive science minor</h2>
-
+<h3>summa cum laude (gpa cutoff 2024: 3.983 vs gpa: 3.984)</h3>
+<br>
 <h2>coursework</h2>
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
@@ -17,16 +18,19 @@ nav_order: 2
           <th><b>Spring 2024</b></th>
           <th>SOCI 136</th>
           <th>Data and Society</th>
+          <th class="course-desc">A</th>
         </tr>
         <tr>
           <th></th>
           <th>COGS 101A</th>
           <th>Sensation and Perception</th>
+          <th class="course-desc">A+</th>
         </tr>
         <tr>
           <th></th>
           <th>MUS 95G</th>
           <th>Gospel Choir</th>
+          <th class="course-desc">P</th>
         </tr>
         <!-- Winter2024 -->
         <tr>

@@ -9,7 +9,7 @@ nav_order: 2
 <br>
 <h2>data science major + cognitive science minor</h2>
 <h3>summa cum laude (gpa cutoff 2024: 3.983 vs gpa: 3.984)</h3>
-<img src="../../assets/img/ucsd.png" alt="ucsd info" style="width:70%;">
+<img src="../../assets/img/ucsd.png" alt="ucsd info" style="width:100%;">
 <br>
 <h2>coursework</h2>
 <div class="table-responsive">

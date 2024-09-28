@@ -16,7 +16,6 @@ permissions:
 
 jobs:
   deploy:
-    # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
@@ -33,6 +32,9 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Clear GitHub Actions cache
+        run: |
+          rm -rf ${{ github.workspace }}/_actions
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
@@ -43,6 +45,6 @@ jobs:
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:
           folder: _site

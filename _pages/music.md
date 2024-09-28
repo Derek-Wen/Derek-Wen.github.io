@@ -12,6 +12,18 @@ nav_order: 5
 
 # 2024 Releases
 
+## ENOUGH w/ Mirin
+<div style="display:flex; justify-content:space-between; margin-bottom:40px;">
+  <img src="../../assets/img/song7.png" alt="Image 1" style="width:40%; margin-right:20px;">
+  <p style="width:58%; margin-left:20px;"> 
+    song i did with mirin
+    <br>
+    <a href="https://open.spotify.com/track/28q5ayWFImcNdF0K5VZDO8?si=edfc78e4466b4485">listen on spotify</a>
+    <br>
+    <a href="https://soundcloud.com/mirindesuyon/enoughdwen">listen on soundcloud</a>
+  </p>
+</div>
+
 ## see
 <div style="display:flex; justify-content:space-between; margin-bottom:40px;">
   <img src="../../assets/img/song6.png" alt="Image 1" style="width:40%; margin-right:20px;">

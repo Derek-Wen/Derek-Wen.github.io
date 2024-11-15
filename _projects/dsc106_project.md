@@ -3,7 +3,7 @@ layout: page
 title: VALORANT Player Impact Analysis
 description: with the help of d3
 img: assets/img/proj4.png
-importance: 1
+importance: 2
 category: fun
 ---
 
